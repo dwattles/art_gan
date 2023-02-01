@@ -6,4 +6,4 @@ It was trained on image data form the Met Museum.
 
 https://www.metmuseum.org/art/collection/search?searchField=All&showOnly=openAccess&sortBy=relevance&pageSize=0  
 
-A gif file showing samples of the model's ouput at different epochs is provided.
+A .gif file showing samples of the model's output at different epochs is provided.
